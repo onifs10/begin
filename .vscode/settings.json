@@ -1,0 +1,10 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.pep8Enabled": false,
+    "python.linting.enabled": true,
+    "python.linting.banditEnabled": false,
+    "python.linting.flake8Enabled": false,
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "python3",
+    "python.linting.mypyEnabled": true
+}
